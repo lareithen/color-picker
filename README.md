@@ -2,7 +2,7 @@
 You can get the color under your cursor with this app.
 
 ## Installation
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`<br>
 `python3 main.py`
 
 ## Screenshots
